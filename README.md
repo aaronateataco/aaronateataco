@@ -1,1 +1,2 @@
-Look at my [website](https://aaronworld.uk) if you want to know stuff about me, I guess. Also I have an alt at @aaronateataco2
+🌐 **Website:** [aaronworld.uk](https://aaronworld.uk)  
+🌮 **Alt Account:** [@aaronateataco2](https://github.com/aaronateataco2)
