@@ -1,4 +1,4 @@
-<br>![](https://github.com/aaronateataco/github-sponsor-graph/blob/main/graph.png?raw=true)
+![](https://github.com/aaronateataco/github-sponsor-graph/blob/main/graph.png?raw=true)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaronateataco/aaronateataco/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaronateataco/aaronateataco/output/github-snake.svg" />
